@@ -1,3 +1,11 @@
+# Release notes for NEXT_VERSION
+
+## Changes by Kind
+
+### Feature
+
+- Highlight `raw string` and make color configurable in the color setting page. ([#122](https://github.com/open-policy-agent/opa-idea-plugin/pull/122), [@vgramer](https://github.com/vgramer))
+
 # Release notes for v0.7.0
 
 ## Changes by Kind
